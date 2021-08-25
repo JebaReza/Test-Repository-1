@@ -1,3 +1,3 @@
 # Test-Repository-1
-Test Purpose
-Checking Comment changes
+This is my First Repository
+This is my First Comment
